@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-details {
+  background-color: darkseagreen;
+  width: 70vw;
+  height: 100vh;
+  padding-top:20px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.item-title {
+  padding: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 23px;
+}
+
+.fetchedData {
+  font-size: 23px;
+  font-weight: 600;
+  font-style: normal;
+}
